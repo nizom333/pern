@@ -1,48 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19233e9e-fd4c-4f73-9557-6aa7039c77ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/brandController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/deviceController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/typeController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/controllers/userController.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/error/ApiError.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/middleware/ErrorHandlingMiddleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/middleware/authMiddleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/middleware/checkRoleMiddleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/models/models.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/brandRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/deviceRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/typeRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/routes/userRoute.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/static/08307ce8-d729-4229-a3a3-b7aebacdca66.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/static/08c90b6a-bde8-4a24-8cdb-8dc4b75f6226.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/static/51f2bf20-52f0-4145-9785-4fbd8c6b9103.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/static/52fb76ae-b6fc-4dc2-b212-217c6763f451.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/static/962d7180-06b5-4ef4-a0df-4ef80c83f012.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/static/c4fda004-4bfc-4979-b33f-31aad4440a62.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/static/ece9ca58-aa8b-42ee-9131-8de41134b85f.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" />
+    <list default="true" id="19233e9e-fd4c-4f73-9557-6aa7039c77ca" name="Default Changelist" comment="init project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/setupTests.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +20,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_COMMON_BRANCH" value="server" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/client" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -101,8 +66,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1625169767269</updated>
-      <workItem from="1625169768752" duration="22339000" />
+      <workItem from="1625169768752" duration="23197000" />
     </task>
+    <task id="LOCAL-00001" summary="init project">
+      <created>1625689234077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625689234077</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init project" />
+    <option name="LAST_COMMIT_MESSAGE" value="init project" />
   </component>
 </project>
